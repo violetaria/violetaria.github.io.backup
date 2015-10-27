@@ -7,16 +7,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            get lost here
+tagline:          'bloggy bloggy blog'
+description:      'not all who wander are lost. Made by <a href="https://twitter.com/perftestgoddess" target="_blank">@perftestgoddess</a>.'
+url:              http://www.getlosthere.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
+  name:           'Terri Chu'
+  url:            https://twitter.com/perftestgoddess
+  email:          terri.chu@outlook.com
+  
 paginate:         5
 
 # Custom vars
