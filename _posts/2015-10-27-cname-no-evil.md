@@ -16,13 +16,13 @@ Some of the frustrations I've run into so far:
 	* Subdomain created for www
 	* Set www Subdomain CNAME to point to username.github.io
 	* Set main domain to redirect to www Subdomain
-	* Create CNAME file with ~~domain_name.com~~ www.domain_name.com in it and push to Github
+	* Create CNAME file with <s>domainname.com</s> www.domainname.com in it and push to Github
 
 <b>Current status</b> it's working!!!!
 
 <img src="https://media.giphy.com/media/11Feog5PTumNnq/giphy.gif"  height="180">
 
-~~my domain and blog are experiencing redirect loops and I hope it is just that the DNS changes have not fully propagated.~~
+<s>my domain and blog are experiencing redirect loops and I hope it is just that the DNS changes have not fully propagated.</s>
 
 
 <b>Future plans</b>
