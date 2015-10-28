@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            get lost here
 tagline:          'bloggy bloggy blog'
 description:      'not all who wander are lost. Made by <a href="https://twitter.com/perftestgoddess" target="_blank">@perftestgoddess</a>.'
-url:              http://www.getlosthere.com
+url:              http://violetaria.github.io
 baseurl:          /
 
 author:
