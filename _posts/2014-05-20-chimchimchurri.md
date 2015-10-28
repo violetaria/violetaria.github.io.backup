@@ -5,7 +5,7 @@ tags: [foody, cooking, atl, restaurants]
 ---
 I went to an amazing eatery that was literally hidden away (took a good 5 minutes to find the door) in Smyrna last Friday called Local Three. We were greeted with the most fabulous Big Labowski painting upon entering the restaurant. Immediately my coworker and I started scheming on ways to get the painting out of the building undetected. Since I figured our plan would be foiled by alcohol and full tummies, I grabbed a snapshot of the magnificence.
 
-![The dude's last dinner](/public/pix/dude_supper.jpg "last dudester"){: .image-medium }
+![The dude's last dinner](/public/pix/dude_supper.jpg "last dudester")
 
 Inspired by the fabulous dinner I had there, I decided to make an avocado chimmichuri for our steaks tonight.  It came out a beautiful green color, and was very close to the one I had at the restaurant.  Recipe as follows:
 
