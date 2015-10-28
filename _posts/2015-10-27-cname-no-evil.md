@@ -27,7 +27,7 @@ Some of the frustrations I've run into so far:
 
 <b>Future plans</b>
 
-1. ~~validate and fix domain issues for the blog~~
+1. <s>validate and fix domain issues for the blog</s>
 2. enable Tag view of posts being created
 3. drink <b>another</b> celebratory beer when complete or when a good effort has been detected 
 
