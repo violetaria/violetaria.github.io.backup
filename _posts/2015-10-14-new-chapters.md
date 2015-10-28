@@ -14,4 +14,4 @@ After 3.5 weeks in class, I cannot tell you how happy I am that I took the plung
 
 Prepare for more blogging as I work on fixing up my site.  It won’t be all homework assignments and programming as I plan to include personal side projects and hobbies that I enjoy.
 
-![kitty](/public/pix/programmer_cat.jpg){: .image-medium }
+![kitty](/public/pix/programmer_cat.jpg)

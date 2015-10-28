@@ -10,8 +10,11 @@ Here is one of the favorite meals we have had (that I got to photograph before i
 
 **Merguez Lamb Sausages with French Lentils, Mint, and Feta**
 
-![recipe](/public/pix/lamb_recipe.jpg){: .image-medium }
-![finished dish](/public/pix/lamb_finished.jpg){: .image-medium }
+<img class="inline-img" src="/public/pix/lamb_recipe.jpg" 
+alt="recipe" max-width="50%" height="350px" border="0" />
+<img class="inline-img" src="/public/pix/lamb_finished.jpg" 
+alt="finished dish" max-width="50%" height="350px" border="0" />
+
 
 We have decided to take a break from the service for a few weeks to make stuff we miss from our normal repertoire.  I will definitely be posting recipes and pictures from the upcoming adventures from our menu this week which includes: Coconut braised chicken with chorizo and potatoes (Food & Wine), Spicy mustard greens and pork soup (Epicurious), Fingerling potato and kale hash with egg and cheddar (Blue Apron), and homemade Pork and cilantro dumplings (mix of a few recipes)
 
@@ -21,4 +24,4 @@ As a bonus here is a fried chicken recipe we attempted last weekend:
 
 The recipe was unbelievably juicy and the rosemary flavor really came through well.  Keeping the frying oil at the proper temp was very hard and as a result some pieces came out with more browned crust than others.  Overall this was worth the extra brining time and we will be making it again!
 
-![Buttermilk Fried Chicken](/public/pix/fried_chicken.jpeg){: .image-medium }
+![Buttermilk Fried Chicken](/public/pix/fried_chicken.jpeg)
