@@ -7,7 +7,7 @@ During class on Thursday, Brit was finishing up walking us through creating a bl
 
 {% highlight ruby %}
 def current_user
-  session[:user_id] && User.find(user_id)
+  session[:user_id] && User.find(:user_id)
 end
 {% endhighlight %}
 
