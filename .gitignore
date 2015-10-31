@@ -1,4 +1,5 @@
 # Ignore docs files
+.gitignore
 _gh_pages
 _site
 .ruby-version
@@ -39,3 +40,4 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+_drafts
