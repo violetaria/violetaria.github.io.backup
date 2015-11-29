@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">get lost here</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-11-29T09:58:43-05:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Terri Chu</name>
+  <uri>http://localhost:4000/</uri>
+  <email>terri.chu@outlook.com</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[hackathon firsts but not lasts]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/11/hackathon-firsts-not-lasts/" />
+  <id>http://localhost:4000/2015/11/hackathon-firsts-not-lasts</id>
+  <published>2015-11-17T00:00:00-05:00</published>
+  <updated>2015-11-17T00:00:00-05:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://localhost:4000</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;h3 id=&quot;first-hackathon-down&quot;&gt;First hackathon down!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media4.giphy.com/media/BlsoHMmwpB0gU/200.gif&quot; alt=&quot;woo!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What a crazy cool experience.  It will not be my last one.&lt;/p&gt;
+
+&lt;p&gt;The Iron Yard Hackathon ran from Friday night through Sunday night.&lt;/p&gt;
+
+&lt;h4 id=&quot;hackathon-basics&quot;&gt;Hackathon basics:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;split up into teams&lt;/li&gt;
+  &lt;li&gt;see project problem statements&lt;/li&gt;
+  &lt;li&gt;pick a project and GO!
+    &lt;ul&gt;
+      &lt;li&gt;code&lt;/li&gt;
+      &lt;li&gt;eat&lt;/li&gt;
+      &lt;li&gt;sleep&lt;/li&gt;
+      &lt;li&gt;repeat&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;present and demo your solution at end of 48 hours&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sounds so simple.  It is easily one of the most difficult and rewarding activities I’ve done with my computer for a long time.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Our task:&lt;/b&gt; Build an app (mobile + web app) that would support employees using iBeacons and their iPhones.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Outcomes:&lt;/b&gt;
+I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Cori, and Mac) did a great job of understanding the problem statement and coming up with a great plan.&lt;/p&gt;
+
+&lt;p&gt;On Saturday, we set to work and back end spent a good portion of the day working on the Sign Up and Login API methods.  Dan and I were faced with some some coding roadblocks going into lunch.  It was almost uncanny that we both came to the exact same “lunch time epiphany” which allowed us to solve a roadbloack!  With that roadblock resolved, we were able to knock out the reamaining API methods by Saturday evening.&lt;/p&gt;
+
+&lt;p&gt;By Sunday, Front End and Mobile teams were hard at work on their UIs while Dan and I worked on fixing up the documentation (so proud), writing Unit Tests, and tweaking the API as needed by the team.  Dan was a great back end partner!  He was able to quickly push out documentation for his code and he put together the most fantastic presentation I have ever seen.  Let me introduce our amazing employee productivity application:&lt;/p&gt;
+
+&lt;h3&gt;Office Hawk!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/office_hawk.png&quot; alt=&quot;Office Hawk!&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was so proud to work on my team and demo what we created.  Our mobile app and UIs were sleek, wonderful things.  Every person contributed something great.  We truly focused on the purpose of the exercise: working as a team.  I felt like we succeeded and it made me want to build more things.  Soooo when’s the next one?!??&lt;/p&gt;
+
+&lt;p&gt;a few random Marta thoughts from the ride home:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Things I can make pale in comparison to what WE can make together&lt;/li&gt;
+  &lt;li&gt;Life greatest adventure is the unknown&lt;/li&gt;
+&lt;/ul&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/11/hackathon-firsts-not-lasts/&quot;&gt;hackathon firsts but not lasts&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on November 17, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[first group project reflections]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/11/first-group-project-reflections/" />
+  <id>http://localhost:4000/2015/11/first-group-project-reflections</id>
+  <published>2015-11-13T00:00:00-05:00</published>
+  <updated>2015-11-13T00:00:00-05:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://localhost:4000</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;We completed our first group project at The Iron Yard on Monday and are about to start the weekend hackathon.  I met with Brit yesterday to reflect on the group project and some code design decisions we made to prep for the hackathon.&lt;/p&gt;
+
+&lt;h4 id=&quot;none-of-us-is-as-smart-as-all-of-us---ken-blanchard&quot;&gt;“None of us is as smart as all of us.” –Ken Blanchard&lt;/h4&gt;
+
+&lt;p&gt;I’ve worked in groups plenty.  However, in the last few years it has been in a lead role.  As a lead, the team expects you to well….lead.  However, the group project at TIY didn’t have a dedicated PM or team lead so I tried to reign it in a bit.  I really admire how Iron Yard places priority on everyone feeling welcome and wanted our team to have the same ‘all opinions are welcomed feel.’  Just keeping that little thought in the back of your mind could help prevent oh so many misunderstandings in every day life.  I tried hard to make sure I didn’t steamroll people and let everyone be heard and the project went off well.&lt;/p&gt;
+
+&lt;p&gt;I thought our project ended successfully as the team had spent a good bit of time working on it on Thursday, Friday, and over the weekend.  We held a public post mortem (project review) on Monday in front of all three of the classes.  During the meeting, I realized that I hadn’t even seen our mobile and front end UIs….uh oh.  After listening to the other teams, I came to the realization that our team did not communicate enough during the project!&lt;/p&gt;
+
+&lt;p&gt;Here are my take-aways from the group project which I plan to keep in mind during the hackathon:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Leading isn’t a bad thing if everyones voices are heard&lt;/li&gt;
+  &lt;li&gt;Plan the UI layout and workflow as a team (seriously, this helps all team members understand requirements better)&lt;/li&gt;
+  &lt;li&gt;Don’t struggle alone! Even though the your partners don’t know your tools, talking things out with your team can help you work through through logic problems.&lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/11/first-group-project-reflections/&quot;&gt;first group project reflections&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on November 13, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[double and....mind blown]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/double-and-mind-blown/" />
+  <id>http://localhost:4000/2015/10/double-and-mind-blown</id>
+  <published>2015-10-31T00:00:00-04:00</published>
+  <updated>2015-10-31T00:00:00-04:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://localhost:4000</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;During class on Thursday, Brit was finishing up walking us through creating a blogging site.  He put up the following code on the screen to check whether the user was logged into the blog:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;current_user&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;session&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:user_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;User&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:user_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;As I was wondering to myself why he didn’t put a ! on the end of the method name, Brit explained the method returns the ActiveRecord user object if the user is in session and exists in the database.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i3.kym-cdn.com/photos/images/newsfeed/000/897/530/642.gif&quot; alt=&quot;queue this&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From my many years writing in C, I fully expected the function to return a boolean value of true or false!  So many questions flew through my mind so I quickly started pry and began typing.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;foo&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;bar&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;bar&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Ruby evaluates the item on the left side, and if not false or nil it evaluates and returns the results of the item on the right side of the &amp;amp;&amp;amp;…..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://media.giphy.com/media/b8kHKZq3YFfnq/giphy.gif&quot; alt=&quot;wow&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ruby is an amazing language!  I am working hard absorb it all so I can utilize its features in thoughtful ways when I write code.  Class is starting to move faster, but I don’t even care.  This is awesome!!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/double-and-mind-blown/&quot;&gt;double and....mind blown&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 31, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[CNAME no evil...]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/cname-no-evil/" />
+  <id>http://localhost:4000/2015/10/cname-no-evil</id>
+  <published>2015-10-27T00:00:00-04:00</published>
+  <updated>2015-10-27T00:00:00-04:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://localhost:4000</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Setting up this blog has been an interesting journey.  I’ve redone the thing about 5 times and finally settled on using a combination of &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;Hyde&lt;/a&gt; (almost funny considering it took me so long to decide).&lt;/p&gt;
+
+&lt;p&gt;Some of the frustrations I’ve run into so far:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Instructions seem sparse and as a result setup took a few tries&lt;/li&gt;
+  &lt;li&gt;Switching between different setups can cause a major headache (&lt;b&gt;protip&lt;/b&gt;: pick one before pushing to Github or fear the repo-moster)&lt;/li&gt;
+  &lt;li&gt;Markdown is a completely new language to me. While people seem to love the simplicity of it, it seems to lack features.  I am hoping that I will get used to using it as I blog more.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Getting my domain hosted by 1&amp;amp;1 to point to my Github URL has proven to be rather difficult.  I’ve been researching this setup most of the evening and have yet to come up with a solution.  Current setup as follows:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Subdomain created for www&lt;/li&gt;
+      &lt;li&gt;Set www Subdomain CNAME to point to username.github.io&lt;/li&gt;
+      &lt;li&gt;Set main domain to redirect to www Subdomain&lt;/li&gt;
+      &lt;li&gt;Create CNAME file with &lt;s&gt;domainname.com&lt;/s&gt; www.domainname.com in it and push to Github&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Current status&lt;/b&gt; it’s working!!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/11Feog5PTumNnq/giphy.gif&quot; height=&quot;180&quot; /&gt;&lt;/p&gt;
+
+&lt;s&gt;my domain and blog are experiencing redirect loops and I hope it is just that the DNS changes have not fully propagated.&lt;/s&gt;
+
+&lt;p&gt;&lt;b&gt;Future plans&lt;/b&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;s&gt;validate and fix domain issues for the blog&lt;/s&gt;
+  &lt;/li&gt;
+  &lt;li&gt;enable Tag view of posts being created&lt;/li&gt;
+  &lt;li&gt;drink &lt;b&gt;another&lt;/b&gt; celebratory beer when complete or when a good effort has been detected&lt;/li&gt;
+&lt;/ol&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/cname-no-evil/&quot;&gt;CNAME no evil...&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 27, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[what's cooking lately]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/whats-cooking/" />
+  <id>http://localhost:4000/2015/10/whats-cooking</id>
+  <published>2015-10-18T00:00:00-04:00</published>
+  <updated>2015-10-18T00:00:00-04:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://localhost:4000</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;After starting classes at the Iron Yard, I’ve (for the first time in a long time) wanted to spend more time on my computer outside of the 9 – 5 doing programming things.  Unfortunately, this has eaten into the time I normally spend after work shopping for groceries and making dinners.  Luckily, my friend recommended Blue Apron which I had just started prior to class.  The service sends you ingredients and recipes for three dinners per week for 2 or 4 people.  The send everything but the oil, salt, and pepper!  We have the 2 person plan and it works out to 2-4 servings / meal (depending on how hungry you are or if you choose to supplement with a salad).  Using the service has allowed me to make dinner with the hubster in &amp;lt; 60 minutes without having to go to the store.  No two recipes are repeated in the year which speaks to my irrational ‘I don’t like to eat the same thing twice’ philosophy and they have sent us a few things I have never heard of before.  Hubby and I are in love with the food!&lt;/p&gt;
+
+&lt;p&gt;Here is one of the favorite meals we have had (that I got to photograph before inhaling)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Merguez Lamb Sausages with French Lentils, Mint, and Feta&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+&lt;img src=&quot;/images/lamb_recipe.jpg&quot; alt=&quot;recipe&quot; /&gt;
+&lt;img src=&quot;/images/lamb_finished.jpg&quot; alt=&quot;finished dish&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We have decided to take a break from the service for a few weeks to make stuff we miss from our normal repertoire.  I will definitely be posting recipes and pictures from the upcoming adventures from our menu this week which includes: Coconut braised chicken with chorizo and potatoes (Food &amp;amp; Wine), Spicy mustard greens and pork soup (Epicurious), Fingerling potato and kale hash with egg and cheddar (Blue Apron), and homemade Pork and cilantro dumplings (mix of a few recipes)&lt;/p&gt;
+
+&lt;p&gt;As a bonus here is a fried chicken recipe we attempted last weekend:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://food52.com/recipes/19368-michael-ruhlman-s-rosemary-brined-buttermilk-fried-chicken&quot;&gt;Buttermilk and Rosemary Fried Chicken&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The recipe was unbelievably juicy and the rosemary flavor really came through well.  Keeping the frying oil at the proper temp was very hard and as a result some pieces came out with more browned crust than others.  Overall this was worth the extra brining time and we will be making it again!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fried_chicken.jpeg&quot; alt=&quot;Buttermilk Fried Chicken&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/whats-cooking/&quot;&gt;what&#39;s cooking lately&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 18, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[new chapter through the iron yard]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/new-chapters/" />
+  <id>http://localhost:4000/2015/10/new-chapters</id>
+  <published>2015-10-14T00:00:00-04:00</published>
+  <updated>2015-10-14T00:00:00-04:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://localhost:4000</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;What an amazing last four weeks!&lt;/p&gt;
+
+&lt;p&gt;Hubby and I just returned from a belated honeymoon to California.  It was on that trip that I realized my discontent at work was not 100% due to the position I held.  I love performance testing and that will never change.  Though the last few years, I have been pulled farther and farther away from technical roles and into a project management/pre-sales role.  The move away from the technical stuff was truly impacting my happiness.  I heard of the Iron Yard through my husband who met one of the alumni at work and decided to research it while on our vacation.&lt;/p&gt;
+
+&lt;p&gt;It seemed like a crazy idea to quit my safe, stable job without having a new one lined up.  To also consider spending 3 months in bootcamp to try and reboot my career was terrifying.  My husband was all for it, and I hope he knows how much I appreciate the support and encouragement he has given since the first moment I discussed it with him.  It was an incredibly difficult decision to leave my former career (which seemed to be rolling along quite well) and the company I had been at for 8.5 years.  I met my husband at that company and made some very good friends.  I will really miss working with so many of them!  My decision was solidified after reading up on as many coding bootcamp reviews as I could find and speaking with the instructor Brit.&lt;/p&gt;
+
+&lt;p&gt;After 3.5 weeks in class, I cannot tell you how happy I am that I took the plunge.  My classmates are all awesome with their own stories of how they ended up in bootcamp.  The instructor has such a love for programming, it’s hard not to be excited about things in class (even when exhausted).  I really feel like this is a fantastic chance I have been given and I am NOT going to waste it.&lt;/p&gt;
+
+&lt;p&gt;Prepare for more blogging as I work on fixing up my site.  It won’t be all homework assignments and programming as I plan to include personal side projects and hobbies that I enjoy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/programmer_cat.jpg&quot; alt=&quot;kitty&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/new-chapters/&quot;&gt;new chapter through the iron yard&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 14, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[chim, chim, churri!]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/05/chimchimchurri/" />
+  <id>http://localhost:4000/2014/05/chimchimchurri</id>
+  <published>2014-05-20T00:00:00-04:00</published>
+  <updated>2014-05-20T00:00:00-04:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://localhost:4000</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;I went to an amazing eatery that was literally hidden away (took a good 5 minutes to find the door) in Smyrna last Friday called Local Three. We were greeted with the most fabulous Big Labowski painting upon entering the restaurant. Immediately my coworker and I started scheming on ways to get the painting out of the building undetected. Since I figured our plan would be foiled by alcohol and full tummies, I grabbed a snapshot of the magnificence.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dude_supper.jpg&quot; alt=&quot;The dude&#39;s last dinner&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inspired by the fabulous dinner I had there, I decided to make an avocado chimmichuri for our steaks tonight.  It came out a beautiful green color, and was very close to the one I had at the restaurant.  Recipe as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/cado_chimi.jpg&quot; alt=&quot;Avocado Chimmichur&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4 garlic clove, peeled&lt;/li&gt;
+  &lt;li&gt;1 jalapeno pepper, seeded and chopped&lt;/li&gt;
+  &lt;li&gt;1 poblano pepper , seeded and chopped&lt;/li&gt;
+  &lt;li&gt;1.5 bunch fresh curly parsley&lt;/li&gt;
+  &lt;li&gt;handful fresh cilantro&lt;/li&gt;
+  &lt;li&gt;1/4  cup red wine vinegar&lt;/li&gt;
+  &lt;li&gt;1 Tbsp balsamic vinegar salt (or kosher salt)&lt;/li&gt;
+  &lt;li&gt;evoo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Instructions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;throw all ingredients (except evoo) into blender&lt;/li&gt;
+  &lt;li&gt;pulse blend and add evoo until you get desired consistency&lt;/li&gt;
+  &lt;li&gt;taste and add any additional salt or vinegar as desired&lt;/li&gt;
+  &lt;li&gt;seed and cut avocado into chunks&lt;/li&gt;
+  &lt;li&gt;mix avocado into sauce and put on a steak!&lt;/li&gt;
+&lt;/ol&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/05/chimchimchurri/&quot;&gt;chim, chim, churri!&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on May 20, 2014.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
