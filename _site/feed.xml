@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">get lost here</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://violetaria.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://violetaria.github.io" />
-<updated>2015-12-12T14:48:51-05:00</updated>
-<id>http://violetaria.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-12-14T15:38:03-05:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Terri Chu</name>
-  <uri>http://violetaria.github.io/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>terri.chu@outlook.com</email>
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[hackathon firsts but not lasts]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/11/hackathon-firsts-not-lasts/" />
-  <id>http://violetaria.github.io/2015/11/hackathon-firsts-not-lasts</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/11/hackathon-firsts-not-lasts/" />
+  <id>http://localhost:4000/2015/11/hackathon-firsts-not-lasts</id>
   <published>2015-11-17T00:00:00-05:00</published>
   <updated>2015-11-17T00:00:00-05:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu@outlook.com</email>
   </author>
   <content type="html">
@@ -76,7 +76,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 &lt;/ul&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/11/hackathon-firsts-not-lasts/&quot;&gt;hackathon firsts but not lasts&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on November 17, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/11/hackathon-firsts-not-lasts/&quot;&gt;hackathon firsts but not lasts&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on November 17, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -85,13 +85,13 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 <entry>
   <title type="html"><![CDATA[first group project reflections]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/11/first-group-project-reflections/" />
-  <id>http://violetaria.github.io/2015/11/first-group-project-reflections</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/11/first-group-project-reflections/" />
+  <id>http://localhost:4000/2015/11/first-group-project-reflections</id>
   <published>2015-11-13T00:00:00-05:00</published>
   <updated>2015-11-13T00:00:00-05:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu@outlook.com</email>
   </author>
   <content type="html">
@@ -111,7 +111,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
   &lt;li&gt;Don’t struggle alone! Even though the your partners don’t know your tools, talking things out with your team can help you work through through logic problems.&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/11/first-group-project-reflections/&quot;&gt;first group project reflections&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on November 13, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/11/first-group-project-reflections/&quot;&gt;first group project reflections&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on November 13, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -120,13 +120,13 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 <entry>
   <title type="html"><![CDATA[double and....mind blown]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/10/double-and-mind-blown/" />
-  <id>http://violetaria.github.io/2015/10/double-and-mind-blown</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/double-and-mind-blown/" />
+  <id>http://localhost:4000/2015/10/double-and-mind-blown</id>
   <published>2015-10-31T00:00:00-04:00</published>
   <updated>2015-10-31T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu@outlook.com</email>
   </author>
   <content type="html">
@@ -160,7 +160,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 &lt;p&gt;Ruby is an amazing language!  I am working hard absorb it all so I can utilize its features in thoughtful ways when I write code.  Class is starting to move faster, but I don’t even care.  This is awesome!!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/double-and-mind-blown/&quot;&gt;double and....mind blown&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 31, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/double-and-mind-blown/&quot;&gt;double and....mind blown&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 31, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -169,13 +169,13 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 <entry>
   <title type="html"><![CDATA[CNAME no evil...]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/10/cname-no-evil/" />
-  <id>http://violetaria.github.io/2015/10/cname-no-evil</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/cname-no-evil/" />
+  <id>http://localhost:4000/2015/10/cname-no-evil</id>
   <published>2015-10-27T00:00:00-04:00</published>
   <updated>2015-10-27T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu@outlook.com</email>
   </author>
   <content type="html">
@@ -216,7 +216,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 &lt;/ol&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/cname-no-evil/&quot;&gt;CNAME no evil...&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 27, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/cname-no-evil/&quot;&gt;CNAME no evil...&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 27, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -225,13 +225,13 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 <entry>
   <title type="html"><![CDATA[what's cooking lately]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/10/whats-cooking/" />
-  <id>http://violetaria.github.io/2015/10/whats-cooking</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/whats-cooking/" />
+  <id>http://localhost:4000/2015/10/whats-cooking</id>
   <published>2015-10-18T00:00:00-04:00</published>
   <updated>2015-10-18T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu@outlook.com</email>
   </author>
   <content type="html">
@@ -256,7 +256,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 &lt;p&gt;&lt;img src=&quot;/images/fried_chicken.jpeg&quot; alt=&quot;Buttermilk Fried Chicken&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/whats-cooking/&quot;&gt;what&#39;s cooking lately&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 18, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/whats-cooking/&quot;&gt;what&#39;s cooking lately&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 18, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -265,13 +265,13 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 <entry>
   <title type="html"><![CDATA[new chapter through the iron yard]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/10/new-chapters/" />
-  <id>http://violetaria.github.io/2015/10/new-chapters</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/new-chapters/" />
+  <id>http://localhost:4000/2015/10/new-chapters</id>
   <published>2015-10-14T00:00:00-04:00</published>
   <updated>2015-10-14T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu@outlook.com</email>
   </author>
   <content type="html">
@@ -287,7 +287,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 &lt;p&gt;&lt;img src=&quot;/images/programmer_cat.jpg&quot; alt=&quot;kitty&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/new-chapters/&quot;&gt;new chapter through the iron yard&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 14, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/new-chapters/&quot;&gt;new chapter through the iron yard&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 14, 2015.&lt;/p&gt;
   </content>
 </entry>
 
@@ -296,13 +296,13 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 <entry>
   <title type="html"><![CDATA[chim, chim, churri!]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2014/05/chimchimchurri/" />
-  <id>http://violetaria.github.io/2014/05/chimchimchurri</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/05/chimchimchurri/" />
+  <id>http://localhost:4000/2014/05/chimchimchurri</id>
   <published>2014-05-20T00:00:00-04:00</published>
   <updated>2014-05-20T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu@outlook.com</email>
   </author>
   <content type="html">
@@ -337,7 +337,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
   &lt;li&gt;mix avocado into sauce and put on a steak!&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2014/05/chimchimchurri/&quot;&gt;chim, chim, churri!&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on May 20, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/05/chimchimchurri/&quot;&gt;chim, chim, churri!&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on May 20, 2014.&lt;/p&gt;
   </content>
 </entry>
 
