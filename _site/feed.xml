@@ -4,13 +4,161 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-12-14T15:38:03-05:00</updated>
+<updated>2015-12-30T15:34:57-05:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Terri Chu</name>
   <uri>http://localhost:4000/</uri>
   <email>terri.chu@outlook.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[postman tips and tricks]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/12/postman-tips-and-tricks/" />
+  <id>http://localhost:4000/2015/12/postman-tips-and-tricks</id>
+  <published>2015-12-22T00:00:00-05:00</published>
+  <updated>2015-12-22T00:00:00-05:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://localhost:4000</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;I’ve been using postman for awhile now, and I found some amazing features during the last project I worked on.  I think they are worthy enough to share, so here we go!&lt;/p&gt;
+
+&lt;h2 id=&quot;collectionsa-namecollectionsa&quot;&gt;Collections&lt;a name=&quot;collections&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Postman starts you out in the History tab.  The tab keeps a running log of every request you send which is great for testing your application (you can go back and select previously run request).  However, it also offers up the ability to create Collections of requests.&lt;/p&gt;
+
+&lt;p&gt;To add a request to a collection, highlight the request(s) in the History tab and click the “Add to Collection” button&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/postman_collections_1.png&quot; alt=&quot;Add to Collection&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You have the choice of adding to an existing collection or creating a new one.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/postman_collections_2.png&quot; alt=&quot;Add to Collection&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have created a collection, you can easily access the requests by going to the Collections tab.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/postman_collections_3.png&quot; alt=&quot;View Collection&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;environmentsa-nameenvironmentsa&quot;&gt;Environments&lt;a name=&quot;environments&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;During my last project, I routinely had to move from testing against localhost and heroku.  This meant having duplicates of each request and I figured there had to be a better way.  Postman provides the “Environments” feature to help with this exact problem.  To add an environment, click the drop down in the upper right corner that most likely say ‘No Environment’ and select Manage Environments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/postman_environments_1.png&quot; alt=&quot;Manage Environments&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From this screen you can add a new environment or click on an existing one to manage the variables you have set.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/postman_environments_2.png&quot; alt=&quot;Manage Environments&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Add a new name for your environment and start adding variables with key/value pairs (just like you would in a POST request).  Some of the more helpful variables I have found are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;URL (including port)&lt;/li&gt;
+  &lt;li&gt;username&lt;/li&gt;
+  &lt;li&gt;password&lt;/li&gt;
+  &lt;li&gt;API token&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/postman_environments_3.png&quot; alt=&quot;Manage Environments&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you have your variables set, you must replace the values in each request with the variable names.  Postman uses `` to denote variables.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/postman_environments_4.png&quot; alt=&quot;Manage Environments&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The true beauty of this setup means you can easily switch from one environment to another (for example, heroku to localhost) and run the same request with little work on your end!  Time saver FTW :)&lt;/p&gt;
+
+&lt;h2 id=&quot;arraysa-namearraysa&quot;&gt;Arrays&lt;a name=&quot;arrays&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The last neat trick I learned was how to send in arrays and arrays of hashes.  This was imperative as I did not want to release API code to my front end teammates without testing it first!  Below is the format required by my API:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/Flour-Power/Back-End/blob/master/README.md&quot;&gt;[snippit from my awesome API docs]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Example Request&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  	&lt;span class=&quot;nt&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Cheesy Eggs&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  	&lt;span class=&quot;nt&quot;&gt;&amp;quot;category_names&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Desserts&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Entrees&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Turn on oven to 350&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      		&lt;span class=&quot;s2&quot;&gt;&amp;quot;Mix eggs, bacon, and cheese together in a large bowl&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      		&lt;span class=&quot;s2&quot;&gt;&amp;quot;Pour into a cast iron pan&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+      		&lt;span class=&quot;s2&quot;&gt;&amp;quot;Bake in oven for 15-20 minutes&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+ 	&lt;span class=&quot;nt&quot;&gt;&amp;quot;ingredients&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+  		&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;	
+  			&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;  
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;carrots&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+  			&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; 
+  			&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;	
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;flour&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;2.5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;cups&amp;quot;&lt;/span&gt;
+  			&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  		&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+  		&lt;span class=&quot;nt&quot;&gt;&amp;quot;my_image&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;path to your local image of the recipe&amp;quot;&lt;/span&gt;      
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;To get the data looking like this, I had to use brackets in the key name for the postman variables.&lt;/p&gt;
+
+&lt;p&gt;For an array of strings with the key name ‘steps,’ use the following key value pair naming convention:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;steps[] - value1&lt;/li&gt;
+  &lt;li&gt;steps[] - value2&lt;/li&gt;
+  &lt;li&gt;steps[] - value3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will produce and inputs of: &lt;code&gt;&quot;steps&quot;: [&quot;value1&quot;,&quot;value2&quot;,&quot;value3&quot;]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note: the key/value paris have to be one right after the other in Postman for it to be considered part of the SAME array&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;To get an array of hashes, use the same method as above but add the hash key names in like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;steps[one] - value1&lt;/li&gt;
+  &lt;li&gt;steps[two] - value2&lt;/li&gt;
+  &lt;li&gt;steps[three] - value3&lt;/li&gt;
+  &lt;li&gt;steps[one] - value4&lt;/li&gt;
+  &lt;li&gt;steps[two] - value5&lt;/li&gt;
+  &lt;li&gt;steps[three] - value6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will produce and inputs of:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; 
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value1&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;quot;three&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value3&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; 
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value4&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;quot;three&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value6&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Below is a real example of a setup I used when testing the FlourPower Application I worked on:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/postman_arrays_1.png&quot; alt=&quot;Manage Environments&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The data below was taken directly from running a request against my localhost with a binding.pry in place and asking Rails what the params variable contained:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Easy Chocolate Cake&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;category_names&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Desserts&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;
+  	&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;Turn on oven to 350&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+   		&lt;span class=&quot;s2&quot;&gt;&amp;quot;Mix Eggs, Chocolate, Flour, and Sugar&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+   		&lt;span class=&quot;s2&quot;&gt;&amp;quot;Pour into a cast iron pan&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+   		&lt;span class=&quot;s2&quot;&gt;&amp;quot;Bake in oven for 15-20 minutes&amp;quot;&lt;/span&gt;	&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+	&lt;span class=&quot;s2&quot;&gt;&amp;quot;ingredients&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;
+  	&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;	&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;flour&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Cups&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+   		&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;sugar&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;2.5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;cups&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+   		&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;eggs&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+   		&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;chocolate bars&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;3&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;bars&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;controller&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;recipes&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+ 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;action&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;create&amp;quot;&lt;/span&gt;	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Hopefully you found these tips helpful as I know I showed them to just about anyone that would listen to me!&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/12/postman-tips-and-tricks/&quot;&gt;postman tips and tricks&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on December 22, 2015.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
