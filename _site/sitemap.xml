@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/2015/12/postman-tips-and-tricks/</loc>
+    <loc>http://violetaria.github.io/2015/12/postman-tips-and-tricks/</loc>
     <lastmod>2015-12-22T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/2015/11/hackathon-firsts-not-lasts/</loc>
+    <loc>http://violetaria.github.io/2015/11/hackathon-firsts-not-lasts/</loc>
     <lastmod>2015-11-17T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/2015/11/first-group-project-reflections/</loc>
+    <loc>http://violetaria.github.io/2015/11/first-group-project-reflections/</loc>
     <lastmod>2015-11-13T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/2015/10/double-and-mind-blown/</loc>
+    <loc>http://violetaria.github.io/2015/10/double-and-mind-blown/</loc>
     <lastmod>2015-10-31T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/2015/10/cname-no-evil/</loc>
+    <loc>http://violetaria.github.io/2015/10/cname-no-evil/</loc>
     <lastmod>2015-10-27T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/2015/10/whats-cooking/</loc>
+    <loc>http://violetaria.github.io/2015/10/whats-cooking/</loc>
     <lastmod>2015-10-18T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/2015/10/new-chapters/</loc>
+    <loc>http://violetaria.github.io/2015/10/new-chapters/</loc>
     <lastmod>2015-10-14T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/2014/05/chimchimchurri/</loc>
+    <loc>http://violetaria.github.io/2014/05/chimchimchurri/</loc>
     <lastmod>2014-05-20T00:00:00-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>http://violetaria.github.io/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/experience/</loc>
+    <loc>http://violetaria.github.io/experience/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/portfolio/</loc>
+    <loc>http://violetaria.github.io/portfolio/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/theme-setup/</loc>
+    <loc>http://violetaria.github.io/theme-setup/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/posts/</loc>
+    <loc>http://violetaria.github.io/posts/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/tags/</loc>
+    <loc>http://violetaria.github.io/tags/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>http://violetaria.github.io/</loc>
   </url>
 </urlset>
