@@ -2,7 +2,7 @@
 layout: page
 title: what's cooking lately
 tags : [foody, cooking, blue apron, recipes]
-share: false
+share: true
 comments: false
 ---
 
@@ -13,9 +13,9 @@ Here is one of the favorite meals we have had (that I got to photograph before i
 **Merguez Lamb Sausages with French Lentils, Mint, and Feta**
 
 <figure class="half">
-<img src="/images/lamb_recipe.jpg" 
+<img src="/images/lamb_recipe.jpg"
 alt="recipe" />
-<img src="/images/lamb_finished.jpg" 
+<img src="/images/lamb_finished.jpg"
 alt="finished dish"/>
 </figure>
 

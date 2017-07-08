@@ -2,7 +2,7 @@
 layout: page
 title: chicken dumplings 1
 tags: [cooking, dumplings, chicken, chinese]
-share: false
+share: true
 comments: false
 ---
 

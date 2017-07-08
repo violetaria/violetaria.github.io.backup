@@ -2,7 +2,7 @@
 layout: page
 title: new chapter through the iron yard
 tags : [life, programming, ruby]
-share: false
+share: true
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: postman tips and tricks
 tags: [programming, postman, tools]
-share: false
+share: true
 comments: false
 ---
 I've been using postman for awhile now, and I found some amazing features during the last project I worked on.  I think they are worthy enough to share, so here we go!
@@ -65,15 +65,15 @@ The last neat trick I learned was how to send in arrays and arrays of hashes.  T
       		"Pour into a cast iron pan",
       		"Bake in oven for 15-20 minutes" ],
  	"ingredients":
-  		[	
+  		[
   			{  
-  				"name": "carrots", 
-  				"amount": "2", 
+  				"name": "carrots",
+  				"amount": "2",
   				"unit": ""
-  			}, 
-  			{	
-  				"name": "flour", 
-  				"amount": "2.5", 
+  			},
+  			{
+  				"name": "flour",
+  				"amount": "2.5",
   				"unit": "cups"
   			}
   		],
@@ -102,10 +102,10 @@ To get an array of hashes, use the same method as above but add the hash key nam
 - steps[two] - value5
 - steps[three] - value6
 
-This will produce and inputs of: 
+This will produce and inputs of:
 {%highlight json%}
-"steps": [ 
-{"one": "value1","two": "value2", "three": "value3"}, 
+"steps": [
+{"one": "value1","two": "value2", "three": "value3"},
 {"one": "value4","two": "value5", "three": "value6"} ]
 {%endhighlight%}
 
@@ -134,7 +134,5 @@ The data below was taken directly from running a request against my localhost wi
  	"action"=>"create"	}
 {%endhighlight%}
 
- 
+
  Hopefully you found these tips helpful as I know I showed them to just about anyone that would listen to me!
- 
- 

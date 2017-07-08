@@ -4,13 +4,104 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://violetaria.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://violetaria.github.io" />
-<updated>2017-03-12T21:54:02-04:00</updated>
+<updated>2017-07-08T12:52:11-04:00</updated>
 <id>http://violetaria.github.io/</id>
 <author>
   <name>Terri Chu</name>
   <uri>http://violetaria.github.io/</uri>
   <email>terri.chu@outlook.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Presentation to Video]]></title>
+  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2017/07/presentation-and-video-how-to/" />
+  <id>http://violetaria.github.io/2017/07/presentation-and-video-how-to</id>
+  <published>2017-07-08T00:00:00-04:00</published>
+  <updated>2017-07-08T00:00:00-04:00</updated>
+  <author>
+    <name>Terri Chu</name>
+    <uri>http://violetaria.github.io</uri>
+    <email>terri.chu@outlook.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;My friend recorded our We Rise in Tech Conference presentations and I wanted to get them up online. I had the idea to also put our slides in the video and figured out a way to do it. Here’s a walk through of what it took to get our videos ready.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note to future self and others: Record your slide presentation DURING your talk using your presenting tool (Keynote, PowerPoint, Google, etc.) because it makes the syncing a lot easier.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-need&quot;&gt;What you need&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presentation program that allows recording of presentation (I used Keynote)&lt;/li&gt;
+  &lt;li&gt;Video recording of your presentation with audio (We used an iPhone on a tripod)&lt;/li&gt;
+  &lt;li&gt;iMovie (or Windows Movie Maker or equivalent)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;step-1---record-your-presentation-slides&quot;&gt;Step 1 - Record your presentation slides&lt;/h2&gt;
+
+&lt;p&gt;If you did not record your slide deck while presenting, have no fear!  Just play back your video (on your phone, another computer, anywhere you can watch it) and set your presenting tool to record your presentation. Start the recording (mute the microphone if possible) and follow along with your video recording, moving through it as close as you can to the video.&lt;/p&gt;
+
+&lt;p&gt;Screen shots of how to record in Keynote&lt;/p&gt;
+
+&lt;h4 id=&quot;record-slideshow&quot;&gt;Record Slideshow&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2017-07-08/01.png&quot; alt=&quot;Record&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;start-recording-and-mute-mic&quot;&gt;Start Recording and Mute Mic&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2017-07-08/02.png&quot; alt=&quot;Start&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2---export-recorded-slides-to-video&quot;&gt;Step 2 - Export recorded slides to video&lt;/h2&gt;
+
+&lt;p&gt;I chose to export to QuickTime because I use a Mac, but if you’re on a Windows or other O/S use whatever works for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2017-07-08/03.png&quot; alt=&quot;Export&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3---combine-in-imovie&quot;&gt;Step 3 - Combine in iMovie&lt;/h2&gt;
+
+&lt;p&gt;Open iMovie and start a new project.&lt;/p&gt;
+
+&lt;h4 id=&quot;drag-the-video-of-you-speaking-in-first&quot;&gt;Drag the video of you speaking in first.&lt;/h4&gt;
+
+&lt;p&gt;This is into the lower left hand corner of iMovie.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2017-07-08/04.png&quot; alt=&quot;First Video&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;drag-the-video-of-your-slides-above-the-first-video&quot;&gt;Drag the video of your slides above the first video.&lt;/h4&gt;
+
+&lt;p&gt;Line it up so they start at the same time (fixable through drag and drop if you don’t get it right the first time). Make sure to not drag directly on TOP of the other video directly, it should sit above it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2017-07-08/05.png&quot; alt=&quot;Second Video&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;set-the-second-video-as-picture-in-picture&quot;&gt;Set the second video as Picture in Picture&lt;/h4&gt;
+
+&lt;p&gt;Select the second video you dragged in (the one on top). You should see an icon with two squares on the right hand side (above the preview window). This button controls the Video Overlay Settings. Click the button and choose &lt;em&gt;Picture in Picture&lt;/em&gt;. Size and position your slides where you want them to live for the duration of the talk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2017-07-08/06.png&quot; alt=&quot;Video Overlay Settings&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;delete-audio-from-one-of-the-videos&quot;&gt;Delete audio from one of the videos&lt;/h4&gt;
+
+&lt;p&gt;If you recorded your presentation while you spoke, your slide recording may have audio (which will play along with your video recording). We’re going to remove whichever audio you don’t want for your final product. Select which video stream you want to delete the audio from, right click and select &lt;em&gt;Detatch Audio&lt;/em&gt;. The Audio will appear below both video streams. You can select the audio and hit delete to remove it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2017-07-08/07.png&quot; alt=&quot;Delete Second Audio&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-4---tweak-video-alignment-and-settings&quot;&gt;Step 4 - Tweak video alignment and settings&lt;/h2&gt;
+
+&lt;p&gt;Lastly, watch your video and make sure it lines up (same timeline, slides change when they should) and that the volume is good. Make any adjustments here before we export.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-5---export-video-and-upload&quot;&gt;Step 5 - Export video and upload&lt;/h2&gt;
+
+&lt;p&gt;iMove gives quite a few options here. I chose to upload directly to YouTube, but you can also export to a video.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Hopefully this post helps you get your first presentation video online!  Good luck and happy presenting :)&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2017/07/presentation-and-video-how-to/&quot;&gt;Presentation to Video&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on July 08, 2017.&lt;/p&gt;
+  </content>
+</entry>
 
 
   
@@ -140,15 +231,15 @@
       		&lt;span class=&quot;s2&quot;&gt;&amp;quot;Pour into a cast iron pan&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
       		&lt;span class=&quot;s2&quot;&gt;&amp;quot;Bake in oven for 15-20 minutes&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
  	&lt;span class=&quot;nt&quot;&gt;&amp;quot;ingredients&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-  		&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;	
+  		&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
   			&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;  
-  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;carrots&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;carrots&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   				&lt;span class=&quot;nt&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;
-  			&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; 
-  			&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;	
-  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;flour&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;2.5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
+  			&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
+  			&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;flour&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  				&lt;span class=&quot;nt&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;2.5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   				&lt;span class=&quot;nt&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;cups&amp;quot;&lt;/span&gt;
   			&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
   		&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
@@ -182,8 +273,8 @@
 
 &lt;p&gt;This will produce and inputs of:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value1&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;quot;three&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value3&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt; 
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value1&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;quot;three&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value3&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value4&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;quot;three&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value6&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Below is a real example of a setup I used when testing the FlourPower Application I worked on:&lt;/p&gt;
@@ -208,7 +299,6 @@
  	&lt;span class=&quot;s2&quot;&gt;&amp;quot;action&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;create&amp;quot;&lt;/span&gt;	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Hopefully you found these tips helpful as I know I showed them to just about anyone that would listen to me!&lt;/p&gt;
-
 
     &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/12/postman-tips-and-tricks/&quot;&gt;postman tips and tricks&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on December 22, 2015.&lt;/p&gt;
   </content>
@@ -276,7 +366,6 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
   &lt;li&gt;Things I can make pale in comparison to what WE can make together&lt;/li&gt;
   &lt;li&gt;Life greatest adventure is the unknown&lt;/li&gt;
 &lt;/ul&gt;
-
 
     &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/11/hackathon-firsts-not-lasts/&quot;&gt;hackathon firsts but not lasts&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on November 17, 2015.&lt;/p&gt;
   </content>
@@ -416,7 +505,6 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
   &lt;li&gt;enable Tag view of posts being created&lt;/li&gt;
   &lt;li&gt;drink &lt;b&gt;another&lt;/b&gt; celebratory beer when complete or when a good effort has been detected&lt;/li&gt;
 &lt;/ol&gt;
-
 
     &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/cname-no-evil/&quot;&gt;CNAME no evil...&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 27, 2015.&lt;/p&gt;
   </content>

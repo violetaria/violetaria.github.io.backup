@@ -2,7 +2,7 @@
 layout: page
 title: hackathon firsts but not lasts
 tags: [programming, rails, reflections]
-share: false
+share: true
 comments: false
 ---
 
@@ -34,7 +34,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 On Saturday, we set to work and back end spent a good portion of the day working on the Sign Up and Login API methods.  Dan and I were faced with some some coding roadblocks going into lunch.  It was almost uncanny that we both came to the exact same "lunch time epiphany" which allowed us to solve a roadbloack!  With that roadblock resolved, we were able to knock out the reamaining API methods by Saturday evening.  
 
-By Sunday, Front End and Mobile teams were hard at work on their UIs while Dan and I worked on fixing up the documentation (so proud), writing Unit Tests, and tweaking the API as needed by the team.  Dan was a great back end partner!  He was able to quickly push out documentation for his code and he put together the most fantastic presentation I have ever seen.  Let me introduce our amazing employee productivity application: 
+By Sunday, Front End and Mobile teams were hard at work on their UIs while Dan and I worked on fixing up the documentation (so proud), writing Unit Tests, and tweaking the API as needed by the team.  Dan was a great back end partner!  He was able to quickly push out documentation for his code and he put together the most fantastic presentation I have ever seen.  Let me introduce our amazing employee productivity application:
 
 <h3>Office Hawk!</h3>
 
@@ -46,7 +46,3 @@ a few random Marta thoughts from the ride home:
 
 - Things I can make pale in comparison to what WE can make together
 - Life greatest adventure is the unknown
-
-
-
-

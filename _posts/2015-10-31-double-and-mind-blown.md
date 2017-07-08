@@ -2,7 +2,7 @@
 layout: page
 title: double and....mind blown
 tags: [programming, ruby, learning]
-share: false
+share: true
 comments: false
 ---
 During class on Thursday, Brit was finishing up walking us through creating a blogging site.  He put up the following code on the screen to check whether the user was logged into the blog:
