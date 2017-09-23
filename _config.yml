@@ -33,7 +33,7 @@ owner:
   disqus-shortname:
   twitter: perftestgoddess
   facebook: #username
-  email: terri.chu@outlook.com
+  email: terri.chu.dev@gmail.com
   google:
     plus: #username
     analytics:
@@ -57,7 +57,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-  resume: "TerriChu_Resume.pdf"
+  resume: https://drive.google.com/uc?export=download&id=0Byuusy0NvvStR3JLSjlaZXV3MzA"
 
 
 include: [".htaccess"]
