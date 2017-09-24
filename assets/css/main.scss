@@ -3,12 +3,12 @@ sitemap: false
 ---
 
 /*
- *
- *  Minimal Mistakes
- *
- *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
- *
+*
+*  Minimal Mistakes
+*
+*  Designer: Michael Rose
+*  Twitter: http://twitter.com/mmistakes
+*
 */
 
 // Partials
@@ -25,6 +25,7 @@ sitemap: false
 @import "page";
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
+@import "flex";
 //@import "vendor/google/fonts";
 
 .timeline {
@@ -310,8 +311,8 @@ sitemap: false
 }
 
 .chart-label{
-    margin-bottom: 0.5em;
-    text-align: center;
+  margin-bottom: 0.5em;
+  text-align: center;
 }
 
 h1{
@@ -333,4 +334,3 @@ strong.tools{
   text-transform: uppercase;
   display: block;
 }
-

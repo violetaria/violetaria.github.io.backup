@@ -2,28 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">get lost here</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://violetaria.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://violetaria.github.io" />
-<updated>2017-09-23T09:46:20-04:00</updated>
-<id>http://violetaria.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2017-09-24T08:33:46-04:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Terri Chu</name>
-  <uri>http://violetaria.github.io/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>terri.chu.dev@gmail.com</email>
 </author>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Presentation to Video]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2017/07/presentation-and-video-how-to/" />
-  <id>http://violetaria.github.io/2017/07/presentation-and-video-how-to</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2017/07/presentation-and-video-how-to/" />
+  <id>http://localhost:4000/2017/07/presentation-and-video-how-to</id>
   <published>2017-07-08T00:00:00-04:00</published>
   <updated>2017-07-08T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
@@ -99,22 +97,20 @@
 
 &lt;p&gt;Hopefully this post helps you get your first presentation video online!  Good luck and happy presenting :)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2017/07/presentation-and-video-how-to/&quot;&gt;Presentation to Video&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on July 08, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2017/07/presentation-and-video-how-to/&quot;&gt;Presentation to Video&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on July 08, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[chicken dumplings 1]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2017/03/chicken-dumplings/" />
-  <id>http://violetaria.github.io/2017/03/chicken-dumplings</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2017/03/chicken-dumplings/" />
+  <id>http://localhost:4000/2017/03/chicken-dumplings</id>
   <published>2017-03-12T00:00:00-05:00</published>
   <updated>2017-03-12T00:00:00-05:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
@@ -124,19 +120,21 @@
 
 &lt;h2 id=&quot;chicken-wood-ear-and-corn-dumplings&quot;&gt;Chicken, Wood Ear, and Corn Dumplings&lt;/h2&gt;
 
-&lt;p&gt;Ingredients
-- ground chicken 1.25 lbs
-- salt
-- Chinese cooking wine/Xao Xing (worth a trip to an asian market for)
-- ginger
-- garlic
-- corn (frozen, I’d recommend fresh or squeezing out water)
-- rehydrated or fresh wood ear mushrooms
-- 6-8 green onions
-- napa cabbage
-- sesame oil
-- veggie oil
-- dumpling wrappers&lt;/p&gt;
+&lt;p&gt;Ingredients&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ground chicken 1.25 lbs&lt;/li&gt;
+  &lt;li&gt;salt&lt;/li&gt;
+  &lt;li&gt;Chinese cooking wine/Xao Xing (worth a trip to an asian market for)&lt;/li&gt;
+  &lt;li&gt;ginger&lt;/li&gt;
+  &lt;li&gt;garlic&lt;/li&gt;
+  &lt;li&gt;corn (frozen, I’d recommend fresh or squeezing out water)&lt;/li&gt;
+  &lt;li&gt;rehydrated or fresh wood ear mushrooms&lt;/li&gt;
+  &lt;li&gt;6-8 green onions&lt;/li&gt;
+  &lt;li&gt;napa cabbage&lt;/li&gt;
+  &lt;li&gt;sesame oil&lt;/li&gt;
+  &lt;li&gt;veggie oil&lt;/li&gt;
+  &lt;li&gt;dumpling wrappers&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/images/2017-03-12/ingredients.jpg&quot; alt=&quot;Ingredients&quot; /&gt;&lt;/p&gt;
@@ -153,29 +151,27 @@
 &lt;h3 id=&quot;yummmmmm&quot;&gt;Yummmmmm&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/images/2017-03-12/ready_to_eat.jpg&quot; alt=&quot;Yum&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2017/03/chicken-dumplings/&quot;&gt;chicken dumplings 1&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on March 12, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2017/03/chicken-dumplings/&quot;&gt;chicken dumplings 1&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on March 12, 2017.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[postman tips and tricks]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/12/postman-tips-and-tricks/" />
-  <id>http://violetaria.github.io/2015/12/postman-tips-and-tricks</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/12/postman-tips-and-tricks/" />
+  <id>http://localhost:4000/2015/12/postman-tips-and-tricks</id>
   <published>2015-12-22T00:00:00-05:00</published>
   <updated>2015-12-22T00:00:00-05:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;I’ve been using postman for awhile now, and I found some amazing features during the last project I worked on.  I think they are worthy enough to share, so here we go!&lt;/p&gt;
 
-&lt;h2 id=&quot;collectionsa-namecollectionsa&quot;&gt;Collections&lt;a name=&quot;collections&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Postman starts you out in the History tab.  The tab keeps a running log of every request you send which is great for testing your application (you can go back and select previously run request).  However, it also offers up the ability to create Collections of requests.&lt;/p&gt;
+&lt;p&gt;##Collections&lt;a name=&quot;collections&quot;&gt;&lt;/a&gt;
+Postman starts you out in the History tab.  The tab keeps a running log of every request you send which is great for testing your application (you can go back and select previously run request).  However, it also offers up the ability to create Collections of requests.&lt;/p&gt;
 
 &lt;p&gt;To add a request to a collection, highlight the request(s) in the History tab and click the “Add to Collection” button&lt;/p&gt;
 
@@ -189,8 +185,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/postman_collections_3.png&quot; alt=&quot;View Collection&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;environmentsa-nameenvironmentsa&quot;&gt;Environments&lt;a name=&quot;environments&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;During my last project, I routinely had to move from testing against localhost and heroku.  This meant having duplicates of each request and I figured there had to be a better way.  Postman provides the “Environments” feature to help with this exact problem.  To add an environment, click the drop down in the upper right corner that most likely say ‘No Environment’ and select Manage Environments.&lt;/p&gt;
+&lt;p&gt;##Environments&lt;a name=&quot;environments&quot;&gt;&lt;/a&gt;
+During my last project, I routinely had to move from testing against localhost and heroku.  This meant having duplicates of each request and I figured there had to be a better way.  Postman provides the “Environments” feature to help with this exact problem.  To add an environment, click the drop down in the upper right corner that most likely say ‘No Environment’ and select Manage Environments.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/postman_environments_1.png&quot; alt=&quot;Manage Environments&quot; /&gt;&lt;/p&gt;
 
@@ -215,7 +211,7 @@
 
 &lt;p&gt;The true beauty of this setup means you can easily switch from one environment to another (for example, heroku to localhost) and run the same request with little work on your end!  Time saver FTW :)&lt;/p&gt;
 
-&lt;h2 id=&quot;arraysa-namearraysa&quot;&gt;Arrays&lt;a name=&quot;arrays&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;##Arrays&lt;a name=&quot;arrays&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The last neat trick I learned was how to send in arrays and arrays of hashes.  This was imperative as I did not want to release API code to my front end teammates without testing it first!  Below is the format required by my API:&lt;/p&gt;
 
@@ -223,7 +219,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Example Request&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   	&lt;span class=&quot;nt&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Cheesy Eggs&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
   	&lt;span class=&quot;nt&quot;&gt;&amp;quot;category_names&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Desserts&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Entrees&amp;quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Turn on oven to 350&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
@@ -244,7 +240,7 @@
   			&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
   		&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
   		&lt;span class=&quot;nt&quot;&gt;&amp;quot;my_image&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;path to your local image of the recipe&amp;quot;&lt;/span&gt;      
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;To get the data looking like this, I had to use brackets in the key name for the postman variables.&lt;/p&gt;
 
@@ -273,9 +269,9 @@
 
 &lt;p&gt;This will produce and inputs of:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value1&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;quot;three&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value3&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value4&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;quot;three&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value6&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;one&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value4&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;quot;two&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value5&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;quot;three&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;value6&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Below is a real example of a setup I used when testing the FlourPower Application I worked on:&lt;/p&gt;
 
@@ -283,7 +279,7 @@
 
 &lt;p&gt;The data below was taken directly from running a request against my localhost with a binding.pry in place and asking Rails what the params variable contained:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Easy Chocolate Cake&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Easy Chocolate Cake&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
  	&lt;span class=&quot;s2&quot;&gt;&amp;quot;category_names&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Desserts&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
  	&lt;span class=&quot;s2&quot;&gt;&amp;quot;steps&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;
   	&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt; 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;Turn on oven to 350&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
@@ -296,26 +292,24 @@
    		&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;eggs&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;2&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
    		&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;chocolate bars&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;amount&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;3&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;unit&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;bars&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
  	&lt;span class=&quot;s2&quot;&gt;&amp;quot;controller&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;recipes&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
- 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;action&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;create&amp;quot;&lt;/span&gt;	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+ 	&lt;span class=&quot;s2&quot;&gt;&amp;quot;action&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;create&amp;quot;&lt;/span&gt;	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Hopefully you found these tips helpful as I know I showed them to just about anyone that would listen to me!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/12/postman-tips-and-tricks/&quot;&gt;postman tips and tricks&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on December 22, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/12/postman-tips-and-tricks/&quot;&gt;postman tips and tricks&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on December 22, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[hackathon firsts but not lasts]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/11/hackathon-firsts-not-lasts/" />
-  <id>http://violetaria.github.io/2015/11/hackathon-firsts-not-lasts</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/11/hackathon-firsts-not-lasts/" />
+  <id>http://localhost:4000/2015/11/hackathon-firsts-not-lasts</id>
   <published>2015-11-17T00:00:00-05:00</published>
   <updated>2015-11-17T00:00:00-05:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
@@ -367,28 +361,26 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
   &lt;li&gt;Life greatest adventure is the unknown&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/11/hackathon-firsts-not-lasts/&quot;&gt;hackathon firsts but not lasts&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on November 17, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/11/hackathon-firsts-not-lasts/&quot;&gt;hackathon firsts but not lasts&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on November 17, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[first group project reflections]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/11/first-group-project-reflections/" />
-  <id>http://violetaria.github.io/2015/11/first-group-project-reflections</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/11/first-group-project-reflections/" />
+  <id>http://localhost:4000/2015/11/first-group-project-reflections</id>
   <published>2015-11-13T00:00:00-05:00</published>
   <updated>2015-11-13T00:00:00-05:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;We completed our first group project at The Iron Yard on Monday and are about to start the weekend hackathon.  I met with Brit yesterday to reflect on the group project and some code design decisions we made to prep for the hackathon.&lt;/p&gt;
 
-&lt;h4 id=&quot;none-of-us-is-as-smart-as-all-of-us---ken-blanchard&quot;&gt;“None of us is as smart as all of us.” –Ken Blanchard&lt;/h4&gt;
+&lt;h4 id=&quot;none-of-us-is-as-smart-as-all-of-us-ken-blanchard&quot;&gt;“None of us is as smart as all of us.” –Ken Blanchard&lt;/h4&gt;
 
 &lt;p&gt;I’ve worked in groups plenty.  However, in the last few years it has been in a lead role.  As a lead, the team expects you to well….lead.  However, the group project at TIY didn’t have a dedicated PM or team lead so I tried to reign it in a bit.  I really admire how Iron Yard places priority on everyone feeling welcome and wanted our team to have the same ‘all opinions are welcomed feel.’  Just keeping that little thought in the back of your mind could help prevent oh so many misunderstandings in every day life.  I tried hard to make sure I didn’t steamroll people and let everyone be heard and the project went off well.&lt;/p&gt;
 
@@ -402,30 +394,28 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
   &lt;li&gt;Don’t struggle alone! Even though the your partners don’t know your tools, talking things out with your team can help you work through through logic problems.&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/11/first-group-project-reflections/&quot;&gt;first group project reflections&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on November 13, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/11/first-group-project-reflections/&quot;&gt;first group project reflections&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on November 13, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[double and....mind blown]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/10/double-and-mind-blown/" />
-  <id>http://violetaria.github.io/2015/10/double-and-mind-blown</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/double-and-mind-blown/" />
+  <id>http://localhost:4000/2015/10/double-and-mind-blown</id>
   <published>2015-10-31T00:00:00-04:00</published>
   <updated>2015-10-31T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;During class on Thursday, Brit was finishing up walking us through creating a blogging site.  He put up the following code on the screen to check whether the user was logged into the blog:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;current_user&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;current_user&lt;/span&gt;
   &lt;span class=&quot;n&quot;&gt;session&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:user_id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;User&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:user_id&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;As I was wondering to myself why he didn’t put a ! on the end of the method name, Brit explained the method returns the ActiveRecord user object if the user is in session and exists in the database.&lt;/p&gt;
 
@@ -433,7 +423,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 &lt;p&gt;From my many years writing in C, I fully expected the function to return a boolean value of true or false!  So many questions flew through my mind so I quickly started pry and began typing.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;
 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
 &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;
 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;
@@ -443,7 +433,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;
 &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;nil&lt;/span&gt;
 &lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pry&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;foo&amp;quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;bar&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;bar&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;bar&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Ruby evaluates the item on the left side, and if not false or nil it evaluates and returns the results of the item on the right side of the &amp;amp;&amp;amp;…..&lt;/p&gt;
 
@@ -451,22 +441,20 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 &lt;p&gt;Ruby is an amazing language!  I am working hard absorb it all so I can utilize its features in thoughtful ways when I write code.  Class is starting to move faster, but I don’t even care.  This is awesome!!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/double-and-mind-blown/&quot;&gt;double and....mind blown&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 31, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/double-and-mind-blown/&quot;&gt;double and....mind blown&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 31, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[CNAME no evil...]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/10/cname-no-evil/" />
-  <id>http://violetaria.github.io/2015/10/cname-no-evil</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/cname-no-evil/" />
+  <id>http://localhost:4000/2015/10/cname-no-evil</id>
   <published>2015-10-27T00:00:00-04:00</published>
   <updated>2015-10-27T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
@@ -506,22 +494,20 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
   &lt;li&gt;drink &lt;b&gt;another&lt;/b&gt; celebratory beer when complete or when a good effort has been detected&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/cname-no-evil/&quot;&gt;CNAME no evil...&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 27, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/cname-no-evil/&quot;&gt;CNAME no evil...&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 27, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[what's cooking lately]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/10/whats-cooking/" />
-  <id>http://violetaria.github.io/2015/10/whats-cooking</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/whats-cooking/" />
+  <id>http://localhost:4000/2015/10/whats-cooking</id>
   <published>2015-10-18T00:00:00-04:00</published>
   <updated>2015-10-18T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
@@ -546,22 +532,20 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 &lt;p&gt;&lt;img src=&quot;/images/fried_chicken.jpeg&quot; alt=&quot;Buttermilk Fried Chicken&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/whats-cooking/&quot;&gt;what&#39;s cooking lately&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 18, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/whats-cooking/&quot;&gt;what's cooking lately&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 18, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[new chapter through the iron yard]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2015/10/new-chapters/" />
-  <id>http://violetaria.github.io/2015/10/new-chapters</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2015/10/new-chapters/" />
+  <id>http://localhost:4000/2015/10/new-chapters</id>
   <published>2015-10-14T00:00:00-04:00</published>
   <updated>2015-10-14T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
@@ -577,28 +561,26 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
 
 &lt;p&gt;&lt;img src=&quot;/images/programmer_cat.jpg&quot; alt=&quot;kitty&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2015/10/new-chapters/&quot;&gt;new chapter through the iron yard&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on October 14, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2015/10/new-chapters/&quot;&gt;new chapter through the iron yard&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on October 14, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[chim, chim, churri!]]></title>
-  <link rel="alternate" type="text/html" href="http://violetaria.github.io/2014/05/chimchimchurri/" />
-  <id>http://violetaria.github.io/2014/05/chimchimchurri</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/05/chimchimchurri/" />
+  <id>http://localhost:4000/2014/05/chimchimchurri</id>
   <published>2014-05-20T00:00:00-04:00</published>
   <updated>2014-05-20T00:00:00-04:00</updated>
   <author>
     <name>Terri Chu</name>
-    <uri>http://violetaria.github.io</uri>
+    <uri>http://localhost:4000</uri>
     <email>terri.chu.dev@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;I went to an amazing eatery that was literally hidden away (took a good 5 minutes to find the door) in Smyrna last Friday called Local Three. We were greeted with the most fabulous Big Labowski painting upon entering the restaurant. Immediately my coworker and I started scheming on ways to get the painting out of the building undetected. Since I figured our plan would be foiled by alcohol and full tummies, I grabbed a snapshot of the magnificence.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/dude_supper.jpg&quot; alt=&quot;The dude&#39;s last dinner&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/dude_supper.jpg&quot; alt=&quot;The dude's last dinner&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Inspired by the fabulous dinner I had there, I decided to make an avocado chimmichuri for our steaks tonight.  It came out a beautiful green color, and was very close to the one I had at the restaurant.  Recipe as follows:&lt;/p&gt;
 
@@ -627,7 +609,7 @@ I had to miss the kick off meeting Friday night but my teammates (Dan, Jonny, Co
   &lt;li&gt;mix avocado into sauce and put on a steak!&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://violetaria.github.io/2014/05/chimchimchurri/&quot;&gt;chim, chim, churri!&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://violetaria.github.io&quot;&gt;get lost here&lt;/a&gt; on May 20, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/05/chimchimchurri/&quot;&gt;chim, chim, churri!&lt;/a&gt; was originally published by Terri Chu at &lt;a href=&quot;http://localhost:4000&quot;&gt;get lost here&lt;/a&gt; on May 20, 2014.&lt;/p&gt;
   </content>
 </entry>
 
